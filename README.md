@@ -39,3 +39,5 @@ b3-rinko-my
 |:-:|:-:|:-:|
 | |o|x|
 |x| | |
+
+[2019/10/30 sakagawa Verified]
